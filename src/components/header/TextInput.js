@@ -31,7 +31,7 @@ const Wrapper = styled.div`
   position: relative;
   width: 180px;
 
-  @media (max-width: 600px) {
+  @media (max-width: 530px) {
     width: 100%;
   }
 `;

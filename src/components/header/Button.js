@@ -24,7 +24,7 @@ const StyledButton = styled.button`
     cursor: pointer;
   }
 
-  @media (max-width: 600px) {
+  @media (max-width: 530px) {
     width: 100%;
     padding: 10px;
   }

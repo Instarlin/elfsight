@@ -82,7 +82,7 @@ const InnerContainer = styled.div`
   gap: 10px;
   height: 100%;
 
-  @media (max-width: 600px) {
+  @media (max-width: 530px) {
     width: 250px;
     flex-direction: column;
   }
